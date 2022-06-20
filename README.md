@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amritoo&show_icons=true&hide_border=true&theme=buefy" alt="Github states" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amritoo&show_icons=true&hide_border=true&theme=buefy" alt="Github states" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritoo&layout=compact&theme=buefy&hide_border=true" alt="Most used languages" />
 </div>
 
